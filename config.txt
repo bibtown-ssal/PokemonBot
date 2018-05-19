@@ -1,0 +1,4 @@
+[General]
+Token = INSERTYOURTOKENHERE
+Prefix = !
+OwnerID = INSERTYOUROWNERID
